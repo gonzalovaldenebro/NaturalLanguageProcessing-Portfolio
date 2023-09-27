@@ -24,7 +24,7 @@ This repository showcases the projects that I have worked on Natural Language Pr
 #### Project: Text Summarization and Question Answering App
 - 
 
-## Working
+## Working :computer:
 ### Part 3: Syntax, Parsing, and Linguistic Structures
 
 - Syntax and Grammatical Structures
