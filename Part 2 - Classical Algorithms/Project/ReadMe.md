@@ -23,7 +23,7 @@ The GUI window will open, allowing you to perform text summarization and questio
 
 ### Text Summarization
 1. Enter or paste your text into the "Enter Text" input box.
-<img src="[https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/891ab96f1771ea2df45b680e04439024d2d14d30/Part%201%20-%20Exploring%20Pre-Trained%20NLP%20Models/Project/Images/user_input.png](https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/b27d5ffc306a0012dae1e15db81a5144b80687bd/Part%202%20-%20Classical%20Algorithms/Project/Screenshot%202023-09-27%20at%2014.39.19.png)" alt="Alt text" width="300"/>
+<img src="Part 2 - Classical Algorithms/Project/Screenshot 2023-09-27 at 14.39.19.png" alt="Alt text" width="300"/>
 
 
 2. Click the "Summarize" button.
