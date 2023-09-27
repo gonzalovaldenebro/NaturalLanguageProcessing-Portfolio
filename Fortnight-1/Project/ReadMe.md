@@ -25,18 +25,24 @@ pip install datasets
 python NLP_finbertApp.py
 ```
 2. The GUI window will open, allowing you to perform sentiment analysis on financial text.
+
 #### Initial user input
 <img src="user_input.png" alt="Alt text" width="300"/>
+
 3. Enter financial-related text in the input field.
+
 4. Click the "Analyze Sentiment" button to perform sentiment analysis.
+  
 5. The sentiment analysis result (label and score) will be displayed below the input field.
+
+#### Model output
+<img src="model_results.png" alt="Alt text" width="300"/>
+  
 6. Previous searches and their results will be logged in the table in the "Previous Searches" section.
+  
 7. You can analyze the sentiment of multiple texts and review their results in the log.
 
 
-#### Model output
-
-<img src="model_results.png" alt="Alt text" width="300"/>
 
 
 
