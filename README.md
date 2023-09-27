@@ -11,7 +11,7 @@ Welcome to my NLP Portfolio, this reposiroty showcases the projects that I have 
 - Summarization
 - Question answering and chatbots
 
-#### Project: Financial Text Sentiment Analysis App
+#### [Project: Financial Text Sentiment Analysis App](https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/tree/d43552d1ef5a7f445acb564e24f29f8346847dc7/Part%201%20-%20Exploring%20Pre-Trained%20NLP%20Models/Project)
 - For this project I built a Gui APP that allowed to extract the sentiment from finance related texts. 
 
 ### Part 2: Classic algorithms
