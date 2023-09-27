@@ -21,7 +21,7 @@ Welcome to my NLP Portfolio, this reposiroty showcases the projects that I have 
 - Hidden Markov Models
 - Lesk Algorithm
 
-#### Project: Text Summarization and Question Answering App
+#### [Project: Text Summarization and Question Answering App](https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/tree/013e582ec0a66792cb37921b22e19a62f37c3360/Part%202%20-%20Classical%20Algorithms/Project)
 - 
 
 ## Working :computer:
