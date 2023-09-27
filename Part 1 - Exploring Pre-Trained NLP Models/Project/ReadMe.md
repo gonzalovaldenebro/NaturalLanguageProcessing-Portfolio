@@ -27,7 +27,7 @@ python NLP_finbertApp.py
 2. The GUI window will open, allowing you to perform sentiment analysis on financial text.
 
 #### Initial user input
-<img src="user_input.png" alt="Alt text" width="300"/>
+<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/891ab96f1771ea2df45b680e04439024d2d14d30/Part%201%20-%20Exploring%20Pre-Trained%20NLP%20Models/Project/Images/user_input.png" alt="Alt text" width="300"/>
 
 3. Enter financial-related text in the input field.
 
