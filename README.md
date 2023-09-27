@@ -2,7 +2,7 @@
 
 This repository showcases the projects that I have worked on Natural Language Processing Applictions. This include information about the topics and a project for every topic
 
-## Completed
+## Completed :white_check_mark:
 
 ### Part 1: Exploring pre-trained NLP models
 - HuggingFace models and libraries
