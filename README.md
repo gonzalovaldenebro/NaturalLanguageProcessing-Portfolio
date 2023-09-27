@@ -32,7 +32,7 @@ This repository showcases the projects that I have worked on Natural Language Pr
 - Context-Free Grammars (CFG) and Parsing Algorithms (like CYK)
 - Role of syntax in NLP (e.g., improving translation models, named entity recognition, etc.)
 
-## Future Work
+## Future Work:new:
 ### Part 4: Neural Networks for NLP
 
 - Building and training neural nets in Keras (maybe TensorFlow or PyTorch too)
