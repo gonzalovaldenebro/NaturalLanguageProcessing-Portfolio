@@ -12,7 +12,8 @@ Welcome to my NLP Portfolio, this reposiroty showcases the projects that I have 
 - Question answering and chatbots
 
 #### [Project: Financial Text Sentiment Analysis App](https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/tree/d43552d1ef5a7f445acb564e24f29f8346847dc7/Part%201%20-%20Exploring%20Pre-Trained%20NLP%20Models/Project)
-- For this project I built a Gui APP that allowed to extract the sentiment from finance related texts. 
+
+- For this project I built a Gui APP that allowed to extract the sentiment from finance related texts 
 
 ### Part 2: Classic algorithms
 
@@ -22,7 +23,8 @@ Welcome to my NLP Portfolio, this reposiroty showcases the projects that I have 
 - Lesk Algorithm
 
 #### [Project: Text Summarization and Question Answering App](https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/tree/013e582ec0a66792cb37921b22e19a62f37c3360/Part%202%20-%20Classical%20Algorithms/Project)
-- 
+
+- For this project I built a Gui APP that allows the user to paste a text, summarize and asnwer questions related to the original text
 
 ## Working :computer:
 ### Part 3: Syntax, Parsing, and Linguistic Structures
