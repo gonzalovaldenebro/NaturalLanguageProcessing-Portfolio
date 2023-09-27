@@ -1,12 +1,12 @@
 # Text Summarization and Question Answering
 
 ## Table of Contents
-### Introduction
-### Installation
-### Usage
-#### Text Summarization
-#### Question Answering
-### Important Notes
+### - Introduction
+### - Installation
+### - Usage
+#### - Text Summarization
+#### - Question Answering
+### - Important Notes
 
 
 ### Introduction
