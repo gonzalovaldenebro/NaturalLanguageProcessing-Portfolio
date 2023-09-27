@@ -4,7 +4,7 @@ This repository showcases the projects that I have worked on Natural Language Pr
 
 
 
-## (1. Financial Text Sentiment Analysis App)[https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/tree/main/Fortnight-1/Project]
+## 1. Financial Text Sentiment Analysis App
 
 - For this project I built a Gui APP that allowed to extract the sentiment from finance related texts. 
 
