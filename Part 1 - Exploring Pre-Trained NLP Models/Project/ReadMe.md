@@ -36,7 +36,7 @@ python NLP_finbertApp.py
 5. The sentiment analysis result (label and score) will be displayed below the input field.
 
 #### Model output
-<img src="model_results.png" alt="Alt text" width="300"/>
+<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/d45d2ae37e2ac557121d29e3466b3ba83349c909/Part%201%20-%20Exploring%20Pre-Trained%20NLP%20Models/Project/Images/model_results.png" alt="Alt text" width="300"/>
   
 6. Previous searches and their results will be logged in the table in the "Previous Searches" section.
   
