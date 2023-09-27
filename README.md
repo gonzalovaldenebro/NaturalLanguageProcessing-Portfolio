@@ -1,4 +1,4 @@
-# Natural Language Processing Portfolio
+# Natural Language Processing Portfolio :smiley:
 
 Welcome to my NLP Portfolio, this reposiroty showcases the projects that I have worked on Natural Language Processing Applictions. This include my applied explorations and a project for every part. Check it out! 
 
