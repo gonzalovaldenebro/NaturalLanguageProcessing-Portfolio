@@ -26,7 +26,6 @@ Welcome to my NLP Portfolio, this reposiroty showcases the projects that I have 
 
 - For this project I built a Gui APP that allows the user to paste a text, summarize and asnwer questions related to the original text
 
-## Working :computer:
 ### Part 3: Syntax, Parsing, and Linguistic Structures
 
 - Syntax and Grammatical Structures
@@ -34,12 +33,15 @@ Welcome to my NLP Portfolio, this reposiroty showcases the projects that I have 
 - Context-Free Grammars (CFG) and Parsing Algorithms (like CYK)
 - Role of syntax in NLP (e.g., improving translation models, named entity recognition, etc.)
 
-## Future Work:new:
+#### [Project: Translation and Tokenization App](https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/tree/main/Part%203%20-%20Syntax%2C%20Parsing%2C%20and%20Linguistic%20Structures%20/Applied%20Exploration/Project)
+
+## Working :computer:
 ### Part 4: Neural Networks for NLP
 
 - Building and training neural nets in Keras (maybe TensorFlow or PyTorch too)
 - Recurrent neural networks and LSTM
 
+## Future Work:new:
 ### Part 5: Word Embeddings
 
 - Bag of Words
