@@ -33,12 +33,12 @@ python Multilingual_Translation_TokenizationApp.py
 - Czech ("cs_CZ")
 - German ("de_DE")
 - Spanish ("es_XX")
-- ("et_EE")
+- Estonian ("et_EE")
 - Finnish ("fi_FI")
 - Italian ("it_IT")
 - Japanese ("ja_XX")
 - Hindi ("hi_IN")
-- ("gu_IN")
+- Gujarati ("gu_IN")
 - Mandarin Chinesse ("zh_CN") 
 
 <img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%203%20-%20Syntax%2C%20Parsing%2C%20and%20Linguistic%20Structures/Project/Images/3.png" alt="Alt text" width="500"/>
