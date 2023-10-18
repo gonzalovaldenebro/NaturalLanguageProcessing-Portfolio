@@ -41,20 +41,20 @@ python Multilingual_Translation_TokenizationApp.py
 - (gu_IN")
 - Mandarin Chinesse ("zh_CN") 
 
-<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%203%20-%20Syntax%2C%20Parsing%2C%20and%20Linguistic%20Structures/Project/Images/3.png" alt="Alt text" width="300"/>
+<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%203%20-%20Syntax%2C%20Parsing%2C%20and%20Linguistic%20Structures/Project/Images/3.png" alt="Alt text" width="500"/>
 
 ### 4. Select one or multiple target languages
 
 In other words, we can translate and tokenize the original (source) language to one or multiple languages by selecting the many languages we want the app to process.
 
-<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%203%20-%20Syntax%2C%20Parsing%2C%20and%20Linguistic%20Structures/Project/Images/4.png" alt="Alt text" width="300"/>
+<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%203%20-%20Syntax%2C%20Parsing%2C%20and%20Linguistic%20Structures/Project/Images/4.png" alt="Alt text" width="500"/>
 
   
 ### 5. Click Translate and explore the results
 
 Once we have selected our input text, source language, target languages we can explore the results. As listed in the example shown in the image below, we can see that it does not only translate and tokenize but it assigns a part-of-speech tagging. 
 
-<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%203%20-%20Syntax%2C%20Parsing%2C%20and%20Linguistic%20Structures/Project/Images/5.png" alt="Alt text" width="300"/>
+<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%203%20-%20Syntax%2C%20Parsing%2C%20and%20Linguistic%20Structures/Project/Images/5.png" alt="Alt text" width="600"/>
 
 
 ## Installation
