@@ -33,7 +33,7 @@ python Multilingual_Translation_TokenizationApp.py
 - Mandarin Chinesse ("zh_CN")
 
 #### Initial user input
-<img src="gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/Part 3 - Syntax, Parsing, and Linguistic Structures/Project/Images/1.png" alt="Alt text" width="300"/>
+<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%203%20-%20Syntax%2C%20Parsing%2C%20and%20Linguistic%20Structures/Project/Images/1.png" alt="Alt text" width="300"/>
 
 3. Enter financial-related text in the input field.
 
