@@ -8,12 +8,21 @@ This project leverages state-of-the-art NLP models from the Transformers library
 
 ## Usage
 
-1. Run the application by executing the provided Python script:
+### 1. Run the application by executing the provided Python script:
 
 ```python
 python Multilingual_Translation_TokenizationApp.py
 ```
-2. The GUI window will open, allowing you enter a text in the following languages: 
+### 2. The GUI window will open
+
+<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%203%20-%20Syntax%2C%20Parsing%2C%20and%20Linguistic%20Structures/Project/Images/1.png" alt="Alt text" width="300"/>
+
+
+### 3. Enter input text 
+
+<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%203%20-%20Syntax%2C%20Parsing%2C%20and%20Linguistic%20Structures/Project/Images/2.png" alt="Alt text" width="300"/>
+
+### 4. Select source language
 
 #### Selected languages for source and output translation
 
@@ -30,31 +39,23 @@ python Multilingual_Translation_TokenizationApp.py
 - Japanese ("ja_XX")
 - Hindi ("hi_IN")
 - (gu_IN")
-- Mandarin Chinesse ("zh_CN")
+- Mandarin Chinesse ("zh_CN") 
 
-#### Initial user input
-<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%203%20-%20Syntax%2C%20Parsing%2C%20and%20Linguistic%20Structures/Project/Images/1.png" alt="Alt text" width="300"/>
+<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%203%20-%20Syntax%2C%20Parsing%2C%20and%20Linguistic%20Structures/Project/Images/3.png" alt="Alt text" width="300"/>
 
-3. Enter financial-related text in the input field.
+### 4. Select one or multiple target languages
 
-4. Click the "Analyze Sentiment" button to perform sentiment analysis.
+In other words, we can translate and tokenize the original (source) language to one or multiple languages by selecting the many languages we want the app to process.
+
+<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%203%20-%20Syntax%2C%20Parsing%2C%20and%20Linguistic%20Structures/Project/Images/4.png" alt="Alt text" width="300"/>
+
   
-5. The sentiment analysis result (label and score) will be displayed below the input field.
+### 5. Click Translate and explore the results
 
-#### Model output
-<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/d45d2ae37e2ac557121d29e3466b3ba83349c909/Part%201%20-%20Exploring%20Pre-Trained%20NLP%20Models/Project/Images/model_results.png" alt="Alt text" width="300"/>
-  
-6. Previous searches and their results will be logged in the table in the "Previous Searches" section.
-  
-7. You can analyze the sentiment of multiple texts and review their results in the log.
+Once we have selected our input text, source language, target languages we can explore the results. As listed in the example shown in the image below, we can see that it does not only translate and tokenize but it assigns a part-of-speech tagging. 
 
-### Technologies Used
+<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%203%20-%20Syntax%2C%20Parsing%2C%20and%20Linguistic%20Structures/Project/Images/5.png" alt="Alt text" width="300"/>
 
-- Python
-- Transformers Library
-- Tkinter (for GUI)
-- NLTK (Natural Language Toolkit)
-- SSL (for certificate verification)
 
 ## Installation
 
