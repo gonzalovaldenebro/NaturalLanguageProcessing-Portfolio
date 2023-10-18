@@ -33,7 +33,7 @@ Welcome to my NLP Portfolio, this reposiroty showcases the projects that I have 
 - Context-Free Grammars (CFG) and Parsing Algorithms (like CYK)
 - Role of syntax in NLP (e.g., improving translation models, named entity recognition, etc.)
 
-#### [Project: Translation and Tokenization App](https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/tree/main/Part%203%20-%20Syntax%2C%20Parsing%2C%20and%20Linguistic%20Structures%20/Applied%20Exploration/Project)
+#### [Project: Translation and Tokenization App](https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/tree/main/Part%203%20-%20Syntax%2C%20Parsing%2C%20and%20Linguistic%20Structures/Project)
 
 - This Python application combines text translation and tokenization using the Transformers library and the Tkinter framework. It allows users to input a sentence, choose source and target languages, and get translations with tokenization and part-of-speech tagging.
 
