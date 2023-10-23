@@ -13,7 +13,7 @@ To run the application, execute the provided Python script:
 python pos_tagging_app.py
 ```
 
-2. Application GUI
+### 2. Application GUI
 Upon running the script, a GUI window will open. The interface is divided into several sections:
 
 
