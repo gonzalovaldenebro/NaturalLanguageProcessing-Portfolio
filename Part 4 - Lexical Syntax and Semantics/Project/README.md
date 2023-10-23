@@ -16,7 +16,6 @@ python pos_tagging_app.py
 ### 2. Application GUI
 Upon running the script, a GUI window will open. The interface is divided into several sections:
 
-
 User Input: You can enter the text you want to analyze in the provided text box.
 
 Tag Input Text: Click this button to initiate tagging of the input text.
