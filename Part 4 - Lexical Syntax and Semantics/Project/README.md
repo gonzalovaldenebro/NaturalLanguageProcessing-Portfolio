@@ -24,7 +24,7 @@ Upon running the script, a GUI window will open. The interface is divided into s
 
 ##### 2.4. Tagged Words: This section displays the tagged words in the format word (POS). The words are color-coded based on their part of speech.
 
-#### 3. Tagging Words
+### 3. Tagging Words
 Enter your text in the "User Input" box.
 Click the "Tag Input Text" button.
 For each word, you can choose a part of speech from a dropdown and click "Tag Word" to assign a tag.
