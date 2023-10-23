@@ -16,13 +16,13 @@ python pos_tagging_app.py
 ### 2. Application GUI
 Upon running the script, a GUI window will open. The interface is divided into several sections:
 
-#### 2.1. User Input: You can enter the text you want to analyze in the provided text box.
+##### 2.1. User Input: You can enter the text you want to analyze in the provided text box.
 
-#### 2.2. Tag Input Text: Click this button to initiate tagging of the input text.
+##### 2.2. Tag Input Text: Click this button to initiate tagging of the input text.
 
-#### 2.3. Clear All: Click this button to clear all tagged words and start over.
+##### 2.3. Clear All: Click this button to clear all tagged words and start over.
 
-#### 2.4. Tagged Words: This section displays the tagged words in the format word (POS). The words are color-coded based on their part of speech.
+##### 2.4. Tagged Words: This section displays the tagged words in the format word (POS). The words are color-coded based on their part of speech.
 
 #### 3. Tagging Words
 Enter your text in the "User Input" box.
