@@ -26,6 +26,10 @@ Upon running the script, a GUI window will open. The interface is divided into s
 
 ### 3. Tagging Words
 Enter your text in the "User Input" box.
+
+<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%204%20-%20Lexical%20Syntax%20and%20Semantics/Project/Images/2.png" alt="Alt text" width="600"/>
+
+### 4. Tagging Words
 Click the "Tag Input Text" button.
 For each word, you can choose a part of speech from a dropdown and click "Tag Word" to assign a tag.
 
