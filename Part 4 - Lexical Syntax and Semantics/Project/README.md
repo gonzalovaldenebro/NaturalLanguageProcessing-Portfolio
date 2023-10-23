@@ -34,13 +34,13 @@ Enter your text in the "User Input" box.
 Click the "Tag Input Text" button.
 For each word, you can choose a part of speech from a dropdown and click "Tag Word" to assign a tag.
 
-<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%204%20-%20Lexical%20Syntax%20and%20Semantics/Project/Images/3.png" alt="Alt text" width="500"/>
+<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%204%20-%20Lexical%20Syntax%20and%20Semantics/Project/Images/3.png" alt="Alt text" width="600"/>
 
 #### 4. Analyzing Text
 
 After tagging words, you can click the "Compare" button to view the model's analysis of the input text. The colored text represents different POS tags.
 
-<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%204%20-%20Lexical%20Syntax%20and%20Semantics/Project/Images/3.png" alt="Alt text" width="500"/>
+<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%204%20-%20Lexical%20Syntax%20and%20Semantics/Project/Images/3.png" alt="Alt text" width="600"/>
 
 #### 5. Clearing Data
 If you want to start over, you can click the "Clear All" button to clear all data and tagged words.
