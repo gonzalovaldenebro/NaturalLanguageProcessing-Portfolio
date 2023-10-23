@@ -40,10 +40,6 @@ After tagging words, you can click the "Compare" button to view the model's anal
 
 <img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%204%20-%20Lexical%20Syntax%20and%20Semantics/Project/Images/5.png" alt="Alt text" width="600"/>
 
-### 6. Clearing Data
-If you want to start over, you can click the "Clear All" button to clear all data and tagged words.
-
-
 
 ## Installation
 Before running the application, ensure you have the required libraries installed. You can install them using pip:
