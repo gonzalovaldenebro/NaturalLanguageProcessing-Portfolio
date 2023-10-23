@@ -36,15 +36,15 @@ After tagging words, you can click the "Compare" button to view the model's anal
 
 <img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%204%20-%20Lexical%20Syntax%20and%20Semantics/Project/Images/3.png" alt="Alt text" width="600"/>
 
-#### 5. Clearing Data
+### 5. Clearing Data
 If you want to start over, you can click the "Clear All" button to clear all data and tagged words.
 
-#### Installation
+### 6. Installation
 Before running the application, ensure you have the required libraries installed. You can install them using pip:
 
 ```python
 pip install tkinter requests
 ```
 
-### Acknowledgments
+### 7. Acknowledgments
 This project utilizes the AdapterHub's BERT-based model for POS tagging. Thanks to the AdapterHub community for providing this valuable resource.
