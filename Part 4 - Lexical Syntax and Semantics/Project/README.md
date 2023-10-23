@@ -35,13 +35,15 @@ For each word, you can choose a part of speech from a dropdown and click "Tag Wo
 
 <img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%204%20-%20Lexical%20Syntax%20and%20Semantics/Project/Images/3.png" alt="Alt text" width="600"/>
 
-#### 4. Analyzing Text
+#### 5. Analyzing Text
 After tagging words, you can click the "Compare" button to view the model's analysis of the input text. The colored text represents different POS tags.
 
 <img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%204%20-%20Lexical%20Syntax%20and%20Semantics/Project/Images/3.png" alt="Alt text" width="600"/>
 
-### 5. Clearing Data
+### 6. Clearing Data
 If you want to start over, you can click the "Clear All" button to clear all data and tagged words.
+
+
 
 ## Installation
 Before running the application, ensure you have the required libraries installed. You can install them using pip:
