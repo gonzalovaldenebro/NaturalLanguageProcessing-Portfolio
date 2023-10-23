@@ -37,8 +37,18 @@ Welcome to my NLP Portfolio, this reposiroty showcases the projects that I have 
 
 - This Python application combines text translation and tokenization using the Transformers library and the Tkinter framework. It allows users to input a sentence, choose source and target languages, and get translations with tokenization and part-of-speech tagging.
 
+### Part 4: Lexical Syntax and Semantics
+
+- Constituency Parsing vs. Dependency Parsing
+- Word Sense Disambiguation
+- Context-Free Grammars
+
+#### [Project: Grammar Checker App](https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/tree/main/Part%204%20-%20Lexical%20Syntax%20and%20Semantics/Project)
+
+- This Python application provides a graphical user interface (GUI) for part-of-speech (POS) tagging of text using the BERT-based model from AdapterHub. It allows users to input text and interactively assign POS tags to words, as well as view the model's analysis of the input text. 
+
 ## Working :computer:
-### Part 4: Neural Networks for NLP
+### Part 5: Neural Networks for NLP
 
 - Building and training neural nets in Keras (maybe TensorFlow or PyTorch too)
 - Recurrent neural networks and LSTM
