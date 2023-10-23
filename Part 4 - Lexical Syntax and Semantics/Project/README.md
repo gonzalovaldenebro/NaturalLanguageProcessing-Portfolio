@@ -39,12 +39,12 @@ After tagging words, you can click the "Compare" button to view the model's anal
 ### 5. Clearing Data
 If you want to start over, you can click the "Clear All" button to clear all data and tagged words.
 
-### 6. Installation
+## Installation
 Before running the application, ensure you have the required libraries installed. You can install them using pip:
 
 ```python
 pip install tkinter requests
 ```
 
-### 7. Acknowledgments
+## Acknowledgments
 This project utilizes the AdapterHub's BERT-based model for POS tagging. Thanks to the AdapterHub community for providing this valuable resource.
