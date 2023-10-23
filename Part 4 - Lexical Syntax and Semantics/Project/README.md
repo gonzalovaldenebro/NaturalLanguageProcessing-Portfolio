@@ -25,8 +25,6 @@ Clear All: Click this button to clear all tagged words and start over.
 
 Tagged Words: This section displays the tagged words in the format word (POS). The words are color-coded based on their part of speech.
 
-Colored Output: This section displays the model's analysis of the input text. The colors represent different POS tags.
-
 #### 3. Tagging Words
 Enter your text in the "User Input" box.
 Click the "Tag Input Text" button.
