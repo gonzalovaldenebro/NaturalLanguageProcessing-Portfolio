@@ -49,11 +49,5 @@ Before running the application, ensure you have the required libraries installed
 pip install tkinter requests
 ```
 
-### Dependencies
-Python 3.x
-tkinter (for GUI)
-requests (for making API requests)
-AdapterHub's BERT-based model (for POS tagging)
-
 ### Acknowledgments
 This project utilizes the AdapterHub's BERT-based model for POS tagging. Thanks to the AdapterHub community for providing this valuable resource.
