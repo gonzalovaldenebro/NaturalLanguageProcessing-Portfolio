@@ -12,7 +12,7 @@ This project is designed to help users perform POS tagging on text using a pre-t
 
 To run the application, execute the provided Python script:
 
-bash```
+
 python pos_tagging_app.py
 
 
