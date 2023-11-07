@@ -49,6 +49,8 @@ In this case, thhe model predicted "Sci/Tech" as the category with the highest p
 ## Model
 The application uses a pre-trained neural network model for text classification. The model was trained on a the [ag_news dataset](https://huggingface.co/datasets/ag_news/viewer/default/train?p=4&row=442) with predefined categories.
 
+The model highest archievement on test data was 91.1% accurary
+
 
 
 
