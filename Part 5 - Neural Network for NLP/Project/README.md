@@ -46,8 +46,6 @@ In this case, thhe model predicted "Sci/Tech" as the category with the highest p
 
 <img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%205%20-%20Neural%20Network%20for%20NLP/Project/Images/prediction%20.png" alt="Alt text" width="600"/>
 
-
-
 ## Model
 The application uses a pre-trained neural network model for text classification. The model was trained on a the [ag_news dataset](https://huggingface.co/datasets/ag_news/viewer/default/train?p=4&row=442) with predefined categories.
 
