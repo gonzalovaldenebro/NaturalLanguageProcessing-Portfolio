@@ -34,17 +34,18 @@ Upon running the application, a graphical user interface (GUI) window will open.
 
 1. User Input: You can enter the text you want to classify in the provided text box.
 
-<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%204%20-%20Lexical%20Syntax%20and%20Semantics/Project/Images/3.png" alt="Alt text" width="600"/>
+<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%205%20-%20Neural%20Network%20for%20NLP/Project/Images/InitialPage.png" alt="Alt text" width="600"/>
 
 2. Predict: Click this button to initiate the classification of the input text.
 
-<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%204%20-%20Lexical%20Syntax%20and%20Semantics/Project/Images/3.png" alt="Alt text" width="600"/>
+<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%205%20-%20Neural%20Network%20for%20NLP/Project/Images/Predict.png" alt="Alt text" width="600"/>
 
 3. Predicted Category: This section displays the predicted category for the input text.
 
 In this case, thhe model predicted "Sci/Tech" as the category with the highest probability (43%), but it also assigned a lower probability (0.80%) to the "Business" category. This could be due to the fact that the text may contain some technical or technology-related terms that the model associated with the "Sci/Tech" category, even though the overall context may be more relevant to "Business."
 
-<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%204%20-%20Lexical%20Syntax%20and%20Semantics/Project/Images/3.png" alt="Alt text" width="600"/>
+<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%205%20-%20Neural%20Network%20for%20NLP/Project/Images/prediction%20.png" alt="Alt text" width="600"/>
+
 
 
 ## Model
