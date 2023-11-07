@@ -54,19 +54,19 @@ Welcome to my NLP Portfolio, this reposiroty showcases the projects that I have 
 - Recurrent neural networks and LSTM
 
 ## Future Work:new:
-### Part 5: Word Embeddings
+### Part 6: Word Embeddings
 
 - Bag of Words
 - TF-IDF
 - Word2Vec
 - GloVe
 
-### Part 6: Transformers
+### Part 7: Transformers
 
 - Attention and transformer overview
 - Popular transformer-based architectures
 
-### Part 7: Fine-Tuning Pretrained Models
+### Part 8: Fine-Tuning Pretrained Models
 
 
 
