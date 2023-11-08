@@ -51,7 +51,7 @@ Welcome to my NLP Portfolio, this reposiroty showcases the projects that I have 
 
 - Building and training neural nets in Keras (maybe TensorFlow or PyTorch too)
 - Recurrent neural networks and LSTM
-- 
+
 #### [Project: Text Classification Neural Network App](https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/tree/main/Part%205%20-%20Neural%20Network%20for%20NLP/Project)
 
 ## Working :computer:
