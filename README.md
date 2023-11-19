@@ -54,20 +54,20 @@ Welcome to my NLP Portfolio, this reposiroty showcases the projects that I have 
 
 #### [Project: Text Classification Neural Network App](https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/tree/main/Part%205%20-%20Neural%20Network%20for%20NLP/Project)
 
-## Working :computer:
 ### Part 6:  Neural Networks for NLP
 
 - Bag of Words
 - TF-IDF
 - Word2Vec
 - GloVe
-  
-## Future Work:new:
+
+## Working :computer:  
 ### Part 7: Transformers
 
 - Attention and transformer overview
 - Popular transformer-based architectures
 
+## Future Work:new:
 ### Part 8: Fine-Tuning Pretrained Models
 
 
