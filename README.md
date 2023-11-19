@@ -47,7 +47,7 @@ Welcome to my NLP Portfolio, this reposiroty showcases the projects that I have 
 
 - This Python application provides a graphical user interface (GUI) for part-of-speech (POS) tagging of text using the BERT-based model from AdapterHub. It allows users to input text and interactively assign POS tags to words, as well as view the model's analysis of the input text. 
 
-### Part 5: Neural Networks for NLP
+### Part 5: Machine Learning for NLP
 
 - Building and training neural nets in Keras (maybe TensorFlow or PyTorch too)
 - Recurrent neural networks and LSTM
@@ -55,7 +55,7 @@ Welcome to my NLP Portfolio, this reposiroty showcases the projects that I have 
 #### [Project: Text Classification Neural Network App](https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/tree/main/Part%205%20-%20Neural%20Network%20for%20NLP/Project)
 
 ## Working :computer:
-### Part 6: Word Embeddings
+### Part 6:  Neural Networks for NLP
 
 - Bag of Words
 - TF-IDF
