@@ -56,20 +56,15 @@ Welcome to my NLP Portfolio, this reposiroty showcases the projects that I have 
 
 ### Part 6:  Neural Networks for NLP
 
-- Bag of Words
+- Encoder/ Decoder
 - TF-IDF
-- Word2Vec
-- GloVe
+- Long Term Recurrence
 
-## Working :computer:  
-### Part 7: Transformers
+### Part 7: Fine-Tuning Pretrained Models
 
-- Attention and transformer overview
-- Popular transformer-based architectures
+- Transfer Learning
+- Attention Transformers 
+- Conversational Models
+- RLHF
 
-## Future Work:new:
-### Part 8: Fine-Tuning Pretrained Models
-
-
-
-
+#### [Project: Fine Tunned Medical Question Answering Model](https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/tree/main/Part%207%20-%20Fine-Tunning%20Pretrained%20Models/Project)
