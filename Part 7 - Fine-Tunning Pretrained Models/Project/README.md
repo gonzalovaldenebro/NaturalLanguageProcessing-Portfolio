@@ -46,8 +46,6 @@ Upon running the application, a graphical user interface (GUI) window will open,
 
 ### Answer: The chatbot will display the answer based on the provided context and question.
 
-<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%205%20-%20Neural%20Network%20for%20NLP/Project/Images/InitialPage.png" alt="Alt text" width="600"/>
-
 ## Exiting the Chatbot
 To exit the chatbot, simply input "exit" in the medical context entry, and the application will close.
 
