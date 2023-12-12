@@ -1,6 +1,6 @@
 # Medical Question Answering Chatbot
 
-This Python application provides a simple graphical user interface (GUI) for a medical question-answering chatbot. The chatbot utilizes the Hugging Face Transformers library and is powered by the "GonzaloValdenebro/MedicalQuestionAnswering" model checkpoint.
+This Python application provides a simple graphical user interface (GUI) for a medical question-answering chatbot. The chatbot utilizes the Hugging Face Transformers library and is powered by the ["GonzaloValdenebro/MedicalQuestionAnswering"](https://huggingface.co/GonzaloValdenebro/MedicalQuestionAnswering) model checkpoint.
 
 ## Overview
 The Medical Question Answering Chatbot allows users to input a medical context and ask questions related to the given context. The chatbot then utilizes a pre-trained model to provide relevant answers based on the input question and context.
