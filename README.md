@@ -52,6 +52,8 @@ Welcome to my NLP Portfolio, this reposiroty showcases the projects that I have 
 
 #### [Project: Text Classification Neural Network App](https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/tree/main/Part%205%20-%20Neural%20Network%20for%20NLP/Project)
 
+- This Python application provides a graphical user interface (GUI) for part-of-speech (POS) tagging of text using the BERT-based model from AdapterHub. It allows users to input text and interactively assign POS tags to words, as well as view the model's analysis of the input text.
+
 ### Part 6:  Neural Networks for NLP
 
 - Encoder/ Decoder
@@ -66,3 +68,5 @@ Welcome to my NLP Portfolio, this reposiroty showcases the projects that I have 
 - RLHF
 
 #### [Project: Fine Tunned Medical Question Answering Model](https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/tree/main/Part%207%20-%20Fine-Tunning%20Pretrained%20Models/Project)
+
+- This Python application provides a simple graphical user interface (GUI) for a medical question-answering chatbot. The chatbot utilizes the Hugging Face Transformers library and is powered by the "GonzaloValdenebro/MedicalQuestionAnswering" model checkpoint
