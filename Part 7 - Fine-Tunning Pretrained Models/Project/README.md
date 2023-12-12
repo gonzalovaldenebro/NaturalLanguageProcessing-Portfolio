@@ -90,15 +90,15 @@ Upon running the application, a graphical user interface (GUI) window will open,
 
 ### Enter Context: Input the medical context in the provided text box.
 
-<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%205%20-%20Neural%20Network%20for%20NLP/Project/Images/InitialPage.png" alt="Alt text" width="600"/>
+<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%207%20-%20Fine-Tunning%20Pretrained%20Models/Project/Images/Image1.png" alt="Alt text" width="600"/>
 
 ### Enter Question: Enter your medical-related question in the designated entry box.
 
-<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%205%20-%20Neural%20Network%20for%20NLP/Project/Images/InitialPage.png" alt="Alt text" width="600"/>
+<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%207%20-%20Fine-Tunning%20Pretrained%20Models/Project/Images/Image2.png" alt="Alt text" width="600"/>
 
 ### Ask: Click this button to initiate the question-answering process.
 
-<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%205%20-%20Neural%20Network%20for%20NLP/Project/Images/InitialPage.png" alt="Alt text" width="600"/>
+<img src="https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio/blob/main/Part%207%20-%20Fine-Tunning%20Pretrained%20Models/Project/Images/Image3.png" alt="Alt text" width="600"/>
 
 ### Answer: The chatbot will display the answer based on the provided context and question.
 
