@@ -2,8 +2,6 @@
 
 Welcome to my NLP Portfolio, this reposiroty showcases the projects that I have worked on Natural Language Processing Applictions. This include my applied explorations and a project for every part. Check it out! 
 
-## Completed :white_check_mark:
-
 ### Part 1: Exploring pre-trained NLP models
 - HuggingFace models and libraries
 - Text classification
